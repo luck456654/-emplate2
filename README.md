@@ -1,1 +1,1 @@
-<b>Заготовка на стеке Nuxt3+Vue3+Pinia</b>
+<b>Заготовка на стеке Nuxt3+Vue3+Pinia+Axios</b>
